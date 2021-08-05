@@ -1,0 +1,54 @@
+header {
+
+    display: grid;
+
+    grid-template-columns:auto auto;
+
+    border: 2px solid black;
+
+    align-items: center;
+
+    
+
+
+
+}
+
+header nav{
+
+    float: right;
+
+
+
+}
+
+
+header div img{
+
+    float: left;
+}
+
+/* header div article{
+
+    float: right;
+} */
+
+
+/* body div:nth-child(1 ) {
+
+    border: 2px solid blue;
+
+} */
+
+
+#d1 img {
+
+    /* border: 2px solid blue; */
+
+    float: right;
+}
+
+d1 article{
+
+    display: inline-block;
+}
